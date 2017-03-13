@@ -34,9 +34,9 @@ The following **additional** features are implemented:
 Link : http://i.imgur.com/zp6ZfhY.gifv
 Heres a walkthrough of implemented user stories:
 
-<a href="http://i.imgur.com/zp6ZfhY.gifv' title='Video Walkthrough">Video walkthrough</a>
+<a href="http://i.imgur.com/zp6ZfhY.gifv" title="Video Walkthrough">Video walkthrough</a>
 <video width="400" controls>
-  <source src="http://i.imgur.com/zp6ZfhY.gifv' title='Video Walkthrough" type="video/mp4">
+  <source src="http://i.imgur.com/zp6ZfhY.gifv" title="Video Walkthrough" type="video/mp4">
 </video>
 
 
