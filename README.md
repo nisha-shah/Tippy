@@ -28,13 +28,13 @@ The following **optional** features are implemented:
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
-
 - Added split functionality to divide the bill amount & tip between 'x' people
 
 ## Video Walkthrough 
+Link : http://i.imgur.com/zp6ZfhY.gifv
+Heres a walkthrough of implemented user stories:
 
-Here's a walkthrough of implemented user stories:
-
+<a href="http://i.imgur.com/zp6ZfhY.gifv' title='Video Walkthrough">Video walkthrough</a>
 <video width="400" controls>
   <source src="http://i.imgur.com/zp6ZfhY.gifv' title='Video Walkthrough" type="video/mp4">
 </video>
